@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version:https:https://devendra0810.github.io/sorting_algorithm-_visualizer
+Take a look at live version:https:https:https://devendra0810.github.io/sorting_algorithm-_visualizer_/
